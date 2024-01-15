@@ -1,2 +1,2 @@
 # leetcode
-This is a repo for keeping track of my coding.
+This is a repo for keeping track of my coding on Leetcode.
